@@ -1,4 +1,4 @@
-# Kaiku - The technology partner for forward-looking, AI-powered engineers and companies.
+# The technology partner for forward-looking, AI-powered engineers and companies.
 
 Accelerate software delivery with human + AI collaboration. Kaiku offers the following services:
 
