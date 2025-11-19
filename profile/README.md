@@ -2,9 +2,9 @@
 
 Accelerate software delivery with human + AI collaboration. Kaiku offers the following services:
 
-🚀 AI and DevOps Engineer Agents: Perfect for engineers and small teams looking to build, productise and scale AI applications. Use our agents through an MCP server within your favorite agentic IDE.
-🧠 Agents + Human Advisor: Best for businesses that want help with development projects. Our agents and experts help your teams to build and productise AI applications.
-📦 Agents + E2E Delivery: Ideal for companies looking for a partner to build and productise intelligent digital solutions and AI applications. Our agents and experts take ownership of the whole application delivery.
+🚀 AI Engineering System: Perfect for engineers and small teams looking to build, productise and scale AI applications. Use our AI Engineering System through an MCP server within your favorite agentic IDE.
+🧠 AI Engineering System + Human Advisor: Best for businesses that want help with development projects. Our AI Engineering System and experts help your teams to build and productise AI applications.
+📦 AI Engineering System + E2E Delivery: Ideal for companies looking for a partner to build and productise intelligent digital solutions and AI applications. Our agents and experts take ownership of the whole application delivery.
 
 ## We’re an AI native company
 
